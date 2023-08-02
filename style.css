@@ -1,0 +1,163 @@
+	body, html { 
+		font-family: Palatino, sans-serif; 
+		line-height: 1.6; 
+		margin: 0;
+		padding: 0; 
+		border: 0;  
+	}
+	.fa { 
+		padding: 20px; 
+		font-size: 30px;
+		width: 30px; 
+		text-align: center; 
+		text-decoration: none; 
+		margin: 5px 2px;
+		border-radius: 50%;
+	}
+	
+	.fa:hover { 
+		opacity: 0.7%; 
+	}
+	.fa-pinterest { 
+		background: #cb2027; 
+		color: white; 
+	}
+	
+	.fa-linkedin { 
+		background: #007bb5;
+		color: white; 
+	}
+	
+	.fa-instagram { 
+		background: #125688;
+		color: white; 
+	}
+	img { 
+		border-radius: 50px; 
+	}
+	
+	.container_12 { 
+		text-align: center;
+		width: 940px; 
+		height: 150px;
+		margin: 0 auto; 
+	}
+	
+	.grid_4 { 
+		width: 300px; 
+		height: 400px;
+		float: right; 
+		margin-right: 20px; 
+	}
+	
+	.grid_5 { 
+		float: right;
+		text-align: center;
+		width: 500px;
+		height: 400px; 
+		margin-right: 40px;
+		padding: 10px;
+		background-color: #6347f3;
+		color: #4cb5e6;
+	 }
+	 
+	.grid_8 { 
+		width: 620px;
+		height:450px;
+		float: left; 
+		margin-right: 20px; 
+		background-color: #4cb5e6; 
+		color: #6347fc;
+	}
+	header { 
+		text-align: center;
+		width: 100%;
+		padding: 20px 0;
+		background-color: #05ff74; 
+		box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+		border-radius: 10px;
+	}
+	
+	.header-content h1 { 
+		text-align: center; 
+		margin: 5; 
+		font-family: 'Pacifico', cursive;
+		font-size: 50px; 
+		color: #f46df0;
+	}
+	
+	nav { 
+		text-align: center; 
+		padding: 10px 5;
+		background-color: #6347fc; 
+	}
+	
+	nav a { 
+		display: inline-block; 
+		padding: 10px 20px; 
+		color: #f46df0; 
+		text-decoration: none;
+	}
+	
+	nav a:hover { 
+		background-color: #6347fc; 
+	}
+	
+	section { 
+		padding: 20px; 
+	}
+	
+	.about-education { 
+		background-color: #4cb5e6; 
+		color: #6347fc;
+		padding-top: 50px; 
+		padding-right: 30px; 
+		padding-bottom: 50px; 
+		padding-left: 80px; 
+	}
+	
+	.about-background { 
+		background-color: #4cb5e6; 
+		color: #6347fc;
+		padding-top: 50px; 
+		padding-right: 30px; 
+		padding-bottom: 50px; 
+		padding-left: 80px; 
+	}
+	
+	.about-work { 
+		background-color: #6347fc;
+		color: #4cb5e6; 
+		padding-top: 50px; 
+		padding-right: 30px; 
+		padding-bottom: 50px; 
+		padding-left: 80px; 
+	}
+	aside { 
+		float: left;
+		width: 400px; 
+		height: 400px;
+		padding: 50px; 
+		background-color: #6347fc; 
+		color: white; 
+	}
+	
+	.article { 
+		color: white;
+		border: 1px #05FF74;
+		background-color: #6347fc;
+		padding-top: 50px; 
+		padding-right: 30px; 
+		padding-bottom: 50px; 
+		padding-left: 100px; 
+	}
+	
+	footer { 
+		position: fixed;
+		left: 0; 
+		bottom: 0; 
+		width: 100%; 
+		text-align: center; 
+		background-color: #05ff74; 
+		color: #f46df0; 
+	}
